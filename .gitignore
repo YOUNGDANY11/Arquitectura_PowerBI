@@ -1,0 +1,2 @@
+# Ignorar todos los archivos .txt en cualquier directorio del repositorio
+*.txt
